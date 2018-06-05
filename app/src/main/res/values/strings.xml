@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RGBest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RGBest</string>
+    <string name="nav_header_subtitle">rgbest@hotmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtEquipe">Integrantes</string>
+    <string name="txtNome1">Gustavo Moro - 00186858</string>
+    <string name="txtNome2">Felipe Matsunaga - 00186864</string>
+    <string name="txtNome3">William Soares - 00189731</string>
+    <string name="txtNome4">Victor Bruno - 00187557</string>
+    <string name="txtSobre">Sobre</string>
+    <string name="str_ctrl">Controle de luz RGB</string>
+    <string name="str_rgb">Cor do LED</string>
+    <string name="str_r">Vermelho</string>
+    <string name="str_g">Verde</string>
+    <string name="str_b">Azul</string>
+</resources>
